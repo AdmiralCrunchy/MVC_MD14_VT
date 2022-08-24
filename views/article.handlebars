@@ -1,0 +1,13 @@
+<div class="text-center">
+  <h2>{{title}}</h2>
+  <p>{{{get_emoji}}}</p>
+  <p>{{description}}</p>
+  <p>Written by {{user.name}} on {{format_date date_created}}</p>
+  <p class="main">
+    {{main_Body}}
+  </p>
+</div>
+<div class="article-bottom">
+      <button class="btn btn-primary upVote" data-id="{{likes}}" >👍 Like: {{likes}}</button>
+      <button class="btn btn-danger dnVote" data-id="{{dislikes}}" >👎 Dislike: {{dislikes}}</button>
+</div>

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Example Article",
+    "description": "A mobile app that will send you notifications whenever a concert is playing in your area.",
+    "main_Body": "This is the example text for the article that can be placed in every arctle I am hopeing that this will work and can be reproduced in many manners.",
+    "likes": 70,
+    "dislikes": 12
+  },
+  {
+    "title": "Top Ten Tech Review 2024",
+    "description": "Lets take a look at the best upcoming tech coming two years from now!",
+    "main_Body": "This is the example text for the article that can be placed in every arctle I am hopeing that this will work and can be reproduced in many manners.",
+    "likes": 12,
+    "dislikes": 6
+  },
+  {
+    "title": "USB-C Kinda Sucks Now",
+    "description": "Glorious new standard ruined by tech companies, who would have guessed!",
+    "main_Body": "This is the example text for the article that can be placed in every arctle I am hopeing that this will work and can be reproduced in many manners.",
+    "likes": 50,
+    "dislikes": 3
+  },
+  {
+    "title": "Is your Hampster blocking your Wifi?",
+    "description": "The answer probably won't surprise you!",
+    "main_Body": "The answer is no, like obviously no. I don't know why you clicked on this article. I don't know what compled you to look up this information, but to reiterate the answer is a resounding no. You should be ashamed of yourself and if you own a hampster you should give it an extra treat for your transgressions.",
+    "likes": 1,
+    "dislikes": 10000
+  }
+]
